@@ -6,7 +6,7 @@
 
 ### Deployed App
 
-https://speedhuntersam.github.io/TeamCharmander/
+https://jacksonopp.github.io/TeamCharmander/
 
 ---
 
